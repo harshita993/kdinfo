@@ -1,2 +1,3 @@
 # kdinfo
-author : kd group
+<B>
+<I></I>author : kd group
