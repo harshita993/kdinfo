@@ -1,1 +1,2 @@
 # kdinfo
+author : kd group
