@@ -1,3 +1,3 @@
 # kdinfo
 <B>
-<I></I>author : kd group
+<I>author : kd group</I>
